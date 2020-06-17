@@ -22,7 +22,7 @@ GENERAL CLASSES
 .title{}
 .content{}
 .button a{ text-decoration:none; background:#0e3d8a no-repeat; width:90px; height:30px; text-align:center; line-height:30px; display:block;}
-.button a:hover{background:url(../images/btn-bghover.png) no-repeat; color:#0e3d8a;}
+.button a:hover{background:#0e3d8a no-repeat; color:#0e3d8a;}
 .page-wrap{ width:960px; margin:0 auto; overflow:hidden;}
 .wrap{ width:960px; margin:0 auto; overflow:hidden;}
 .input-newsletter{ background:url(../images/newsletter-bg.png) no-repeat center; width:210px; height:46px; border:none; text-indent:10px; color:#fff;font-family:"Trebuchet MS"; font-size:14px;}
@@ -43,7 +43,7 @@ MENU CLASSES
 .menu ul li{ list-style:none; float:left; width:88px; text-align:center; line-height:40px; margin-right:10px;}
 .menu ul li a{ text-decoration:none; font-size:15px; font-weight:bold; text-transform:uppercase; text-align:center; display:block; color:#000000;}
 .menu ul li a:hover{ color:#ffffff;  background:url(../images/menu-btn.png) no-repeat;}
-.menu ul li a.active{ background:url(../images/menu-btn.png) no-repeat; color:#ffed71; width:88px; height:40px; color:#ffffff;}
+.menu ul li a.active{ #0e3d8a no-repeat; color:#ffed71; width:88px; height:40px; color:#ffffff;}
 
 /*-------------------------------------------------
 SOCIAL MEDIA CLASSES
