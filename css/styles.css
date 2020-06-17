@@ -22,7 +22,7 @@ GENERAL CLASSES
 .title{}
 .content{}
 .button a{ text-decoration:none; background:url(../images/btn-bg.png) no-repeat; width:90px; height:30px; text-align:center; line-height:30px; display:block;}
-.button a:hover{background:url(../images/btn-bghover.png) no-repeat; color:#04192f;}
+.button a:hover{background:url(../images/btn-bghover.png) no-repeat; color:#0e3d8a;}
 .page-wrap{ width:960px; margin:0 auto; overflow:hidden;}
 .wrap{ width:960px; margin:0 auto; overflow:hidden;}
 .input-newsletter{ background:url(../images/newsletter-bg.png) no-repeat center; width:210px; height:46px; border:none; text-indent:10px; color:#fff;font-family:"Trebuchet MS"; font-size:14px;}
