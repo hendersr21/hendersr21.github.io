@@ -102,8 +102,8 @@ COLS CLASSES
 .leftcol .panel{ width:100%;}
 .leftcol .panel .title{ background:url(../images/line-bg.jpg) repeat-x bottom; padding-bottom:25px; margin-bottom:25px;}
 .leftcol .panel .title h1{ text-transform:uppercase;}
-.leftcol .panel .content h2{ color:#1e3246; padding-bottom:15px; padding-top:10px;}
-.leftcol .panel .title span{ font-size:18px; color:#1e3246;}
+.leftcol .panel .content h2{ color:#0e3d8a; padding-bottom:15px; padding-top:10px;}
+.leftcol .panel .title span{ font-size:18px; color:#0e3d8a;}
 .leftcol .panel .content p{ padding-bottom:20px;}
 .leftcol .panel .content img{ float:left; margin-right:20px; background:#dd2900; padding:3px; border:#f32d00 solid 2px;}
 
@@ -149,8 +149,8 @@ FOOTER CLASSES
 .footer-wrap .wrap .panel{width:300px; float:left;}
 .footer-wrap .wrap .panel .title{ color:#ffffff; padding-bottom:30px;}
 .testimonials{background:url(../images/testimonials-bg.png) no-repeat; width:220px; height:106px; padding:30px 50px 30px 30px;}
-.footer-wrap .wrap .panel .content span{ color:#da2600;}
-.footer-wrap .wrap .panel .content span a{ color:#da2600; text-decoration:underline; display:block; padding-top:20px;}
+.footer-wrap .wrap .panel .content span{ color:#0e3d8a;}
+.footer-wrap .wrap .panel .content span a{ color:#0e3d8a; text-decoration:underline; display:block; padding-top:20px;}
 .footer-wrap .wrap .panel .content span a:hover{ color:#ffed71; text-decoration:none;}
 
 
