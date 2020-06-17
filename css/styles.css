@@ -42,7 +42,7 @@ MENU CLASSES
 .menu{ float:left; width:660px;}
 .menu ul li{ list-style:none; float:left; width:88px; text-align:center; line-height:40px; margin-right:10px;}
 .menu ul li a{ text-decoration:none; font-size:15px; font-weight:bold; text-transform:uppercase; text-align:center; display:block; color:#000000;}
-.menu ul li a:hover{ color:#ffffff;  background:url(../images/menu-btn.png) no-repeat;}
+.menu ul li a:hover{ color:#ffffff;  background:#0e3d8a no-repeat;}
 .menu ul li a.active{ #0e3d8a no-repeat; color:#ffed71; width:88px; height:40px; color:#ffffff;}
 
 /*-------------------------------------------------
