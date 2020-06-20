@@ -13,7 +13,7 @@ a, a:link, a:visited, a:hover, a:active {
 color: #777;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #000;                                         
+  color: #002633;                                         
   margin-bottom: 15px;
   margin-top: 0;
 }
@@ -302,7 +302,7 @@ hr.break-small.break-double.background-white:before, hr.break-small.break-double
 }
 hr.break-small.break-double.background-primary:before, hr.break-small.break-double.background-primary:after,
 .primary-color-primary hr.break-small.break-double.background-primary:before, .primary-color-primary hr.break-small.break-double.background-primary:after {
-  background: #C81010;
+  background: #002633;
 }
 
 
