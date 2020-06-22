@@ -159,7 +159,9 @@ iframe {
   display: block;
   margin: 0;
 }
-
+.nobull {
+  list-style-type: none;
+}	 
 /* Drop Cap */
 .text-drop-cap {
   float: left;
