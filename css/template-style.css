@@ -13,7 +13,7 @@ a, a:link, a:visited, a:hover, a:active {
 color: #777;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #111124;                                         
+  color: #0052A3;                                         
   margin-bottom: 15px;
   margin-top: 0;
 }
@@ -304,7 +304,7 @@ hr.break-small.break-double.background-white:before, hr.break-small.break-double
 }
 hr.break-small.break-double.background-primary:before, hr.break-small.break-double.background-primary:after,
 .primary-color-primary hr.break-small.break-double.background-primary:before, .primary-color-primary hr.break-small.break-double.background-primary:after {
-  background: #111124;
+  background: #0052A3;
 }
 
 
@@ -426,7 +426,7 @@ aside.aside-left {
 }  
 .aside-nav.background-dark-hightlight > ul > li > a:hover, .aside-nav.background-dark-hightlight > ul > li.active-item > a:link, .aside-nav.background-dark-hightlight > ul > li.active-item > a:visited,
 .primary-color-dark .aside-nav.background-primary-hightlight > ul > li > a:hover, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:link, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:visited {
-  border-color: #111124;
+  border-color: #0052A3;
 }
 
 /* Font colors */
@@ -441,7 +441,7 @@ aside.aside-left {
 .background-white .h1, .background-white .h2, .background-white .h3, .background-white .h4, .background-white .h5, .background-white .h6, 
 .primary-color-white .background-primary h1, .primary-color-white .background-primary h2, .primary-color-white .background-primary h3, .primary-color-white .background-primary h4, .primary-color-white .background-primary h5, .primary-color-white .background-primary h6,
 .primary-color-white .background-primary .h1, .primary-color-white .background-primary .h2, .primary-color-white .background-primary .h3, .primary-color-white .background-primary .h4, .primary-color-white .background-primary .h5, .primary-color-white .background-primary .h6 {
-  color: #111124;
+  color: #0052A3;
 } 
 .image-hover-overlay-content *,
 .background-primary, .background-primary p, a.background-primary, a.background-primary:visited, a.background-primary:link, .background-primary a, .background-primary a:link, .background-primary a:visited, .background-primary a:hover, .background-primary a:active,
@@ -462,10 +462,10 @@ aside.aside-left {
   color: #fff !important;
 }
 .text-primary, .text-primary *, .primary-color-primary .text-primary, .primary-color-primary .text-primary * {
-  color: #111124 !important;
+  color: #0052A3 !important;
 }
 .text-dark, .text-dark *, .primary-color-dark .text-primary, .primary-color-dark .text-primary * {
-  color: #111124 !important;
+  color: #0052A3 !important;
 } 
 .text-white-hover, .text-primary-hover, .text-dark-hover {
   transition: color 0.20s linear 0s;
@@ -478,10 +478,10 @@ aside.aside-left {
   color: #fff !important;
 }
 .text-primary-hover:hover, .primary-color-primary .text-primary-hover:hover {
-  color: #111124 !important;
+  color: #0052A3 !important;
 }
 .text-dark-hover:hover, .primary-color-dark .text-primary-hover:hover {
-  color: #111124 !important;
+  color: #0052A3 !important;
 } 
 
 /* Background Colors */
@@ -489,10 +489,10 @@ aside.aside-left {
   background-color: #fff !important;
 }
 .background-primary, .primary-color-primary .background-primary {
-  background-color: #111124 !important;
+  background-color: #0052A3 !important;
 }
 .background-dark, .primary-color-dark .background-primary {
-  background-color: #111124 !important; 
+  background-color: #0052A3 !important; 
 }
 /* Background Opacity */
 .background-white.background-transparent, .primary-color-white .background-primary.background-transparent {
@@ -610,31 +610,31 @@ aside.aside-left {
 .button.button-white-stroke:hover, a.button.button-white-stroke:hover,
 .primary-color-white .button.button-primary-stroke:hover, .primary-color-white a.button.button-primary-stroke:hover {
   background: #fff none repeat scroll 0 0;
-  color: #111124;
+  color: #0052A3;
 }
 .button.button-primary-stroke, a.button.button-primary-stroke, a.button.button-primary-stroke:link, a.button.button-primary-stroke:visited,
 .primary-color-primary .button.button-primary-stroke, .primary-color-primary a.button.button-primary-stroke, .primary-color-primary a.button.button-primary-stroke:link, .primary-color-primary a.button.button-primary-stroke:visited {
   background: none;
-  border: 1px solid #111124;
+  border: 1px solid #0052A3;
   box-shadow: none;
-  color: #111124;
+  color: #0052A3;
 }
 .button.button-primary-stroke:hover, a.button.button-primary-stroke:hover,
 .primary-color-primary .button.button-primary-stroke:hover, .primary-color-primary a.button.button-primary-stroke:hover {
-  background: #111124 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: #fff;
 }
 
 .button.button-dark-stroke, a.button.button-dark-stroke, a.button.button-dark-stroke:link, a.button.button-dark-stroke:visited,
 .primary-color-dark .button.button-primary-stroke, .primary-color-dark a.button.button-primary-stroke, .primary-color-dark a.button.button-primary-stroke:link, .primary-color-dark a.button.button-primary-stroke:visited {
   background: none;
-  border: 1px solid #111124;
+  border: 1px solid #0052A3;
   box-shadow: none;
   color: #002633;
 }
 .button.button-dark-stroke:hover, a.button.button-dark-stroke:hover,
 .primary-color-dark .button.button-primary-stroke:hover, .primary-color-dark a.button.button-primary-stroke:hover {
-  background: #111124 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: #fff;
 }
 
@@ -1163,18 +1163,18 @@ display:none;
 }
 a.tab-label, a.tab-label:link, a.tab-label:visited,
 .background-white a.tab-label, .background-white a.tab-label:link, .background-white a.tab-label:visited, .background-white a.tab-label:hover {
-  background: #111124 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: rgba(255,255,255, 0.75);
 }
 a.tab-label, a.tab-label:link, a.tab-label:visited, a.tab-label:hover,
 .background-white a.tab-label, .background-white a.tab-label:link, .background-white a.tab-label:visited, .background-white a.tab-label:hover {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #111124;
+  color: #0052A3;
 }
 .background-white-hightlight a.tab-label.active-btn, .background-white-hightlight a.tab-label:hover,
 .primary-color-white .background-primary-hightlight a.tab-label.active-btn, .primary-color-white .background-primary-hightlight a.tab-label:hover {
   background: #fff none repeat scroll 0 0;
-  color: #111124;
+  color: #0052A3;
 }
 .background-primary-hightlight a.tab-label.active-btn, .background-primary-hightlight a.tab-label:hover,
 .primary-color-primary .background-primary-hightlight a.tab-label.active-btn, .primary-color-primary .background-primary-hightlight a.tab-label:hover {
@@ -1183,7 +1183,7 @@ a.tab-label, a.tab-label:link, a.tab-label:visited, a.tab-label:hover,
 }
 .background-dark-hightlight a.tab-label.active-btn, .background-dark-hightlight a.tab-label:hover,
 .primary-color-dark .background-primary-hightlight a.tab-label.active-btn, .primary-color-dark .background-primary-hightlight a.tab-label:hover {
-  background: #111124 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: #fff;
 }
 
@@ -1247,14 +1247,14 @@ p.form-success {
       vertical-align: middle;
     }
     .nav-text::after {
-      color: #111124;
+      color: #0052A3;
       display: inline-block;
       font-size: 3rem;
       margin-left: 0;
       margin-top: 30px;
     }
     .top-nav li a, .background-white .top-nav li a {
-      background: #111124 none repeat scroll 0 0;
+      background: #0052A3 none repeat scroll 0 0;
       color: #fff;
       font-size: 1.1em;
       padding: 1em;
@@ -2061,14 +2061,14 @@ video {
     display:block;
   }
   .nav-text::after {
-    color: #111124;
+    color: #0052A3;
   }
   .fixed {
     position: relative;
     z-index: 10;
   }
   .fixed .nav-text::after {
-    color: #111124;
+    color: #0052A3;
   }
   .top-nav li a,.top-nav li ul li a {
     border-top: 1px solid #f5f5f5;
