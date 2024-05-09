@@ -17,7 +17,7 @@ body {
   color:#444;
 }
 h1,h2,h3,h4,h5,h6 {
-  color:#152732;
+  color:#0052A3;
   font-weight: normal;
   line-height: 1.3;
   margin:0.5rem 0;  
@@ -98,7 +98,7 @@ dl dd:last-child {margin-bottom:0;}
 abbr {cursor:help;}
 abbr[title] {border-bottom:1px dotted;}
 kbd {
-  background: #152732 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: #fff;
   padding: 0.125rem 0.3125rem;
 }
@@ -116,7 +116,7 @@ form {line-height:1.4;}
 nav {
   display:block;
   width:100%;
-  background:#152732;
+  background:#0052A3;
 }
 .line:after, nav:after, .center:after, .box:after, .margin:after, .margin2x:after {
   clear:both;
@@ -130,7 +130,7 @@ nav {
 .top-nav ul {padding:0;}
 .top-nav ul ul {
   position:absolute;
-  background:#152732;
+  background:#0052A3;
 }
 .top-nav li {
   float:left;
@@ -144,7 +144,7 @@ nav {
   padding:1.25rem; 
 }
 .top-nav li ul li a {
-  background:none repeat scroll 0 0 #152732;
+  background:none repeat scroll 0 0 #0052A3;
   min-width:100%;
   padding:0.625rem;
 }
@@ -298,7 +298,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   border-bottom:0;
 }
 .aside-nav.slide-nav li a:hover {
-  background:#152732!important;
+  background:#0052A3!important;
   color:#fff!important;
 }
 .aside-nav.slide-nav li > ul {
@@ -312,7 +312,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   border-right:0;
 }
 .slide-nav-button {
-  background:#152732;
+  background:#0052A3;
   cursor:pointer;
   position:fixed;
   top:0;
@@ -692,7 +692,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
     text-decoration:none;
   }
   .top-nav li a:hover {
-    background:none repeat scroll 0 0 #152732;
+    background:none repeat scroll 0 0 #0052A3;
     color:#fff;
   }
   .top-nav li ul,.top-nav li ul li ul {
@@ -813,7 +813,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   .size-960,.size-1140,.size-1280,.size-1520 {max-width:480px;}
   .aside-nav li a {text-align: center;}
   .minimize-on-small .aside-nav-text {
-    background:#152732 none repeat scroll 0 0;
+    background:#0052A3 none repeat scroll 0 0;
     color:#fff;
     cursor:pointer;
     display:block;
