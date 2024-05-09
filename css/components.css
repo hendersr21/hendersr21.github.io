@@ -85,7 +85,7 @@ form.customform option {padding: 0.625rem;}
 form.customform select[multiple="multiple"] {height: auto;}
 form.customform button {
  width: 100%;
- background: none repeat scroll 0 0 #152732;
+ background: none repeat scroll 0 0 #0052A3;
  border: 0 none;
  color: #fff;
  height: 2.7rem;
@@ -106,7 +106,7 @@ a.tooltip-container,.tooltip-container {
   font-weight: 600;
 }
 a .tooltip-content,.tooltip-content {
-  background: #152732 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: #fff!important;
   border-radius: 3px;
   display: none;
@@ -122,7 +122,7 @@ a .tooltip-content,.tooltip-content {
 .tooltip-content::after {
   border-left: 9px solid transparent;
   border-right: 9px solid transparent;
-  border-top: 7px solid #152732;
+  border-top: 7px solid #0052A3;
   bottom: -5px;
   clear: both;
   content: "";
@@ -139,7 +139,7 @@ a.tooltip-content.tooltip-bottom,.tooltip-content.tooltip-bottom {
   border-left: 9px solid transparent;
   border-right: 9px solid transparent;
   border-top: 0;
-  border-bottom: 7px solid #152732;
+  border-bottom: 7px solid #0052A3;
   top: -5px;
 }
 /* Buttons */
