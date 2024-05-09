@@ -199,7 +199,7 @@ td {border-right:1px solid #fff;}
 .primary-color-white .background-primary-hightlight .top-nav .active-item > a, .primary-color-white .background-primary-hightlight .top-nav li a:hover, .primary-color-white .background-primary-hightlight .aside-nav li a:hover, 
 .primary-color-white .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-white .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
   background: #fff none repeat scroll 0 0;
-  color: #1e5061;
+  color: #0052A3;
 }
 
 .background-primary-hightlight .top-nav .active-item > a, .background-primary-hightlight .top-nav li a:hover, .background-primary-hightlight .aside-nav li a:hover, 
@@ -213,7 +213,7 @@ td {border-right:1px solid #fff;}
 .background-dark-hightlight .aside-nav > ul > li.active-item > a:link, .background-dark-hightlight .aside-nav > ul > li.active-item > a:visited,
 .primary-color-dark .background-primary-hightlight .top-nav .active-item > a, .primary-color-dark .background-primary-hightlight .top-nav li a:hover, .primary-color-dark .background-primary-hightlight .aside-nav li a:hover, 
 .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
-  background: #1e5061 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: #fff;
 }
 .background-none {
@@ -314,7 +314,7 @@ video {
 
 /* Top Nav */
 .top-nav li a, .background-white .top-nav li a {
-  color: #1e5061;
+  color: #0052A3;
   font-size: 0.85rem;
   padding: 0.7em 1.25em;
 }
@@ -326,7 +326,7 @@ nav {
   z-index: 2;
 }  
 .top-nav ul ul {
-  background: #1e5061 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
 }
 .top-nav li ul li {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -335,7 +335,7 @@ nav {
   border-bottom: 0;
 }
 .top-nav li ul li a, .background-white .top-nav li ul li a, .top-nav .active-item li a {
-  background: #1e5061 none repeat scroll 0 0;
+  background: #0052A3 none repeat scroll 0 0;
   color: rgba(255,255,255, 0.75);
 }
 ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .aside-submenu > a::after, ul.chevron .aside-sub-submenu > a::after {
