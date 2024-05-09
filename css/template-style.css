@@ -137,8 +137,8 @@ a.text-tag:link {
   padding: 6px 9px;
 }
 a.text-tag:link:hover {
-  background: #1e5061 none repeat scroll 0 0;
-  border: 1px solid #1e5061;
+  background: #0052A3 none repeat scroll 0 0;
+  border: 1px solid #0052A3;
   color: #fff;
   transition: all 0.20s linear 0s;
   -o-transition: all 0.20s linear 0s;
