@@ -372,7 +372,7 @@ nav.fixed, .fixed nav {
 }
 .logo img {
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 200px;
   width: 100%;
 }
 
@@ -1241,7 +1241,7 @@ p.form-success {
       float: none;
     }
     .logo {
-      max-width: 250px;
+      max-width: 200px;
       margin: 0 auto;
     }
     .nav-text {
@@ -2060,7 +2060,7 @@ video {
   }
   .logo img {
     margin: 0 auto;
-    max-width: 300px;
+    max-width: 200px;
   }
   .logo img.logo-white {
     display:none;
