@@ -436,7 +436,7 @@ aside.aside-left {
 .primary-color-dark .aside-nav.background-primary-hightlight > ul > li > a:hover, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:link, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:visited {
   border-color: #0052A3;
 }
-cover {
+.cover {
   width: 100%;
   height: 100%;
   object-fit: contain;
