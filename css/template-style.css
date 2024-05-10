@@ -437,9 +437,9 @@ aside.aside-left {
   border-color: #0052A3;
 }
 cover {
-  width: 200px;
-  height: 300px;
-  object-fit: fill;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 /* Font colors */
