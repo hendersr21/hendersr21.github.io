@@ -436,6 +436,11 @@ aside.aside-left {
 .primary-color-dark .aside-nav.background-primary-hightlight > ul > li > a:hover, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:link, .primary-color-dark .aside-nav.background-primary-hightlight > ul > li.active-item > a:visited {
   border-color: #0052A3;
 }
+cover {
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+}
 
 /* Font colors */
 .background-white, .background-white p, a.background-white, .background-white a, .background-white a:link, .background-white a:visited, .background-white a:hover, .background-white a:active {
