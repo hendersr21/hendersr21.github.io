@@ -372,6 +372,7 @@ nav.fixed, .fixed nav {
 }
 .logo img {
   margin: 0 auto;
+  max-height: 100px;	
   max-width: 200px;
   width: 100%;
 }
