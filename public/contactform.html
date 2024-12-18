@@ -80,7 +80,7 @@
   }
 ?>
 
-<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST">
+<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?" method="POST">
   <label for="name">Name:</label><br>
   <input type="text" name="name">
   <p><?php if(isset($name_error)) echo $name_error; ?></p>
@@ -99,9 +99,9 @@
       $to = 'hendersr21@yahoo.com'; // edit here
       $body = " Name: $name\n E-mail: $email\n Message:\n $message";
       if(mail($to, $subject, $body)){
-        echo '<p style="color: green">Message sent</p>';
+        echo '<p style="color: green"></p>';
       }else{
-        echo '<p>Error occurred, please try again later</p>';
+        echo '<p></p>';
       }
     }
   ?>
