@@ -49,8 +49,7 @@
         <header class="section background-dark">
           <div class="line">        
             <h1 class="text-white margin-top-bottom-40 text-size-60 text-line-height-1">Contact Me</h1>
-            <p class="margin-bottom-0 text-size-16">Please reach out to me if you would like to discuss my research,<br>
-            or if you would like to join the Ward 5 Education Equity Committee.</p>
+            <p class="margin-bottom-0 text-size-16">Please reach out to me if you would like to discuss my research<br>or DC education, or if you would like to join the Ward 5 Education<br>Equity Committee.</p>
           </div>  
         </header>
         
